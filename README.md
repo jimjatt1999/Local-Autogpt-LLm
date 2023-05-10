@@ -51,6 +51,9 @@ Executing agent with goal...
 Response: Germany is a country in Central and Western Europe. It borders Denmark to the north, Poland and the Czech Republic to the east, Austria and Switzerland to the south, France and Luxembourg to the southwest, and Belgium and the Netherlands to the west. Germany covers an area of about 357,022 square kilometers and has a population of about 83 million people.
 Execution time in seconds: 12.34
 
+## To do
+- Fix {tools} is not a valid tool issue
+- Try different models
 
 ## Contributing
 
