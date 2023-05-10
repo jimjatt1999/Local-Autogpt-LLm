@@ -23,6 +23,8 @@ pip install langchain LlamaCpp google-api-python-client requests
 
 You also need to download a llm model and place it in your desired path. You can use the quantized Llama 4b model from here.
 
+**note you can use other models too, just change the import from llama.cpp to gpt4all etc andthen change everything else accordingly
+ 
 You also need to set some environment variables for the script to work properly:
 
 - MODEL_PATH: The path to your llm model file
